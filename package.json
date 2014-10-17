@@ -1,0 +1,29 @@
+{
+  "name": "tess",
+  "version": "1.0.0",
+  "description": "assert(tests===tess)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenplusplus/tess"
+  },
+  "keywords": [
+    "tests",
+    "assertions",
+    "tdd",
+    "bdd",
+    "udd"
+  ],
+  "author": "Stephen Sawchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenplusplus/tess/issues"
+  },
+  "homepage": "https://github.com/stephenplusplus/tess"
+}
